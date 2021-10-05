@@ -1,0 +1,17 @@
+BONJOUR, 
+BIENVENUE DANS MON PROJET HTML/CSSµµ
+LA PREMIERE PAGE DE MON SITE SE SITUE DANS LE DOSSIER : "SITE_ouvrir_1erepage"
+C'est la page Prehome. Il suffit de cliquer sur le logo pour accèder au site.
+
+
+
+RESOLUTION : Mon site n'est pas responsive, il y aura des bug d'affichages si l'écran est trop petit. 
+Je l'ai crée sur un écran 24 pouces.
+Résolution : Longueur
+1920 Pixels
+
+Résolution : Largeur
+1080 Pixels
+
+Merci d'avance ! 
+Jade DOMAS-VASSEROT

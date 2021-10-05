@@ -1,0 +1,109 @@
+body {
+	padding            : 0;
+	margin             : 0;
+	background         : url(https://wallpapercools.com/wp-content/uploads/2020/01/4k-anime-landscape-wallpapers-scaled.jpg)fixed;
+	background-size    : 100%;
+	background-position: 0% 10%;
+	background-repeat  : no-repeat;
+	width              : 100%;
+	height             : 100%
+	}
+
+#body { 
+	
+	text-align : center;
+	font-size  : 60px;
+	padding-top: 80px;
+	height     : 1100px;
+}
+a:hover {
+	font-size          : 110%;
+	transition-duration: 0.25s;
+}
+a {
+	transition-duration: 0.35s;
+}
+#body a {
+	color: white;
+}
+
+#logo img {
+	width         : 1000px;
+	height        : 400px;
+	padding-bottom: 10%;
+}
+#logo img:hover{
+	height: 500px;
+	width : 1100px;
+}
+.footertelechargement {
+	position   : absolute;
+	text-align : center;
+	left       : 50%;
+	font-size  : 30px;
+	text-align : center;
+	font-weight: bold;
+	font-family: Impact, fantasy;
+	color      : black;
+
+}
+.footertelechargement img {
+	padding-top: 50px;
+	width      : 140px;
+}
+#footer2 {
+
+	font-size   : 30px;
+	text-align  : left;
+	font-weight : bold;
+	font-family : Impact, fantasy;
+	color       : black;
+	padding-left: 10%;
+}
+
+#footer2 img:hover{
+	 transform: rotate(180deg) ;
+}
+#footer2 ul li a img {
+	width              : 70px;
+	height             : 70px;
+	transition-duration: 1.3s;
+	padding-left       : 20px;
+}
+.footertelechargement a img:hover {
+	height: 60px;
+	width : 160px;
+}
+#footer2 ul li {
+	display: flex;
+	float  : left;
+
+}
+.selectlang {
+	position: absolute;
+	left    : 45%;
+	bottom  : 20%;
+
+}
+#copyright {
+	position: absolute;
+	width   : 100%;
+	height  : 20px;
+	bottom  : -20%;
+	color   : white;
+}
+#copyright ul li {
+	display        : flex;
+	float          : left;
+	justify-content: center;
+	padding-left   : 50px;
+	padding-right  : 50px;
+	font-size      : 16px;
+
+}
+#copyright a {
+	color          : white;
+	text-decoration: none;
+	font-weight    : 600;
+
+}

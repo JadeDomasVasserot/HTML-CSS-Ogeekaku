@@ -1,0 +1,272 @@
+body {
+	padding        : 0;
+	margin         : 0;
+	background     : url(https://dozenofelites.com/uploads/monthly_2017_04/a63ee662dbe7ea3fa722f1fe8a26af2e982d75d2.jpg.98d61119017e0d16403b2be5f1175046.jpg)fixed;
+	background-size: 100%;
+
+}
+a:hover {
+	font-size          : 110%;
+	transition-duration: 0.45s;
+}
+a {
+	transition-duration: 0.55s;
+}
+.head {
+	background-image   : url(https://wallpapercools.com/wp-content/uploads/2020/01/4k-anime-landscape-wallpapers-scaled.jpg);
+	background-position: 55% 78%;
+	height             : 350px;
+	color              : white;
+	text-align         : center;
+	font-size          : 30px;
+	padding-top        : 20px;
+
+}
+.head img {
+	width              : 750px;
+	height             : 450px;
+	padding-bottom     : 10%;
+	transition-duration: 0.55s;
+}
+.head img:hover{
+	height             : 500px;
+	width              : 800px;
+	transition-duration: 0.55s;
+}
+#main {
+	display            : flex;
+	border-style       : groove;
+	border-width       : 5px;
+	background-image   : url(https://i.pinimg.com/originals/3a/34/8f/3a348f8ba21b2996179edcbd49bbe2e1.png);
+	background-position: 100% 10%;
+	justify-content    : center;
+	font-weight        : bold;
+	height             : 25px;
+	position           : sticky;
+	top                : 0;
+	z-index            : 1;
+
+}
+
+#main ul{
+	list-style-type: none;
+	text-align     : center;
+	margin         : 0;
+	padding        : 0;
+	margin-top     : 3px;
+
+
+ }
+ #main ul a {
+ 	color          : black;
+ 	text-decoration: none;
+
+}
+#main ul li {
+	float     : left;
+	text-align: center;
+
+}
+
+#main ul li {
+	display      : block;
+	float        : left;
+	padding-right: 50px;
+	padding-left : 50px;
+}
+ #main ul li ul {
+ 		display    : none;
+ 		list-style : none;
+ 		position   : relative;
+ 		padding-top: 10px;
+
+ }
+ #main ul li:hover ul {
+ 	display: block;
+
+ }
+ #main li:hover ul li {
+ 	float              : none;
+ 	background-image   : url(https://i.pinimg.com/originals/3a/34/8f/3a348f8ba21b2996179edcbd49bbe2e1.png);
+ 	background-position: 75% 10%;
+ 	margin             : 0px;
+ 	padding            : 10px 20px 10px 20px;
+ }
+
+#section {
+	background-color: #0000003b;
+	max-width       : 100%;
+	padding-right   : 50px;
+
+}
+#synopsis {
+	    display         : block;
+	    background-color: rgb(255 255 255 / 33%);
+	    width           : 100%;
+}
+#text {
+	padding-left  : 50px;
+	font-size     : 25px;
+	padding-bottom: 20px;
+}
+
+#titresec {
+		font-size     : 50px;
+		font-weight   : 600;
+		text-align    : center;
+		padding-bottom: 40px;
+		padding-top   : 20px;
+}
+#titresec a{
+ 	color          : #4D2FBB;
+ 	text-decoration: none;
+}
+#textperso{
+	font-size       : 26px;
+	color           : white;
+	background-color: #0000006e;
+	width           : 100%;
+}
+.personnage {
+   box-shadow      : rgba(60, 74, 83, 0.3) 0px 0px 2px 0px, rgba(60, 74, 83, 0.3) 0px 2px 4px 0px;
+   border-radius   : 8px;
+   font-weight     : 600;
+   font-size       : 20px;
+   height          : 250px;
+   margin-top      : 70px;
+   text-align      : center;
+   width           : 100%;
+   background-color: #0603008a;
+   margin-bottom   : 50px;
+}
+.personnage iframe {
+		width : 200px;
+		height: 150px;
+
+}
+.personnage a {
+	color          : white;
+	text-decoration: none;
+	text-align     : center;
+
+
+}
+.personnage img {
+	height       : 180px;
+	width        : 170px;
+	border-radius: 8px;
+
+	transition: 0.5s;
+
+}
+.personnage img:hover {
+	height    : 200px;
+	width     : 180px;
+	transition: 0.5s;
+}
+
+.titre {
+	font-size     : 30px;
+	color         : #ff7702;
+	padding-top   : 20px;
+	padding-bottom: 20px;
+	text-align    : center;
+}
+.titre a{
+	font-size     : 30px;
+	color         : #ff7702;
+	padding-top   : 20px;
+	padding-left  : 50px;
+	padding-bottom: 20px;
+
+}
+#trailer {
+	 background-color: rgb(255 255 255 / 33%);
+	 width           : 100%;
+	 text-align      : center;
+	 padding-bottom  : 50px;
+	 margin-bottom   : 50px;
+}
+
+#trailer video{
+	height: 170px;
+	width : 300px;
+
+
+}
+.footertelechargement {
+	background-color: #b4afd8cc;
+	height          : 210px;
+	width           : 100%;
+	text-align      : center;
+	padding-top     : 30px;
+	font-size       : 30px;
+	text-align      : center;
+	font-weight     : bold;
+	font-family     : Impact, fantasy;
+
+
+}
+.footertelechargement a img {
+	padding-top        : 50px;
+	width              : 140px;
+	height             : 40px;
+	transition-duration: 0.45s;
+}
+.footertelechargement a img:hover {
+	height             : 60px;
+	width              : 160px;
+	transition-duration: 0.55s;
+}
+#footer2 {
+	background-color: #6c6696d9;
+	height          : 200px;
+	width           : 100%;
+	padding-bottom  : 30px;
+	font-size       : 30px;
+	text-align      : center;
+	font-weight     : bold;
+	padding-top     : 30px;
+	font-family     : Impact, fantasy;
+
+}
+#footer2 ul{
+	padding-left: 40%;
+}
+#footer2 img:hover{
+	 transform          : rotate(180deg) ;
+	 transition-duration: 1s;
+}
+#footer2 ul li a img {
+	width              : 70px;
+	height             : 70px;
+	transition-duration: 1.3s;
+	padding-left       : 20px;
+}
+#footer2 ul li {
+	display: flex;
+	float  : left;
+
+
+}
+.selecting {
+	text-align: center;
+
+}
+#copyright {
+	width : 100%;
+	height: 20px;
+
+}
+#copyright ul li {
+	display        : flex;
+	float          : left;
+	justify-content: center;
+	padding-left   : 50px;
+	padding-right  : 50px;
+}
+#copyright a {
+	color          : white;
+	text-decoration: none;
+	font-weight    : bold;
+}
